@@ -33,7 +33,7 @@ public class Tester {
 
     public void displayInfo(int years) {
         System.out.println("Имя " + name + " Фамилия " + surname + " Опыт " + (experienceInYears+years) + " лет  Зарплата " + salary);
-    }
+    }//
 
     public void displayInfo(double salary) {
         System.out.println("Имя " + name + " Фамилия " + surname + " Опыт " + experienceInYears + " лет  Зарплата " + (this.salary + salary));
