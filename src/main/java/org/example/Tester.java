@@ -17,7 +17,7 @@ public class Tester {
 
     public Tester(String name, String surname) {
         this(name, surname, 0, "none", 0.0);
-    }
+    }//
 
     public Tester(String name, String surname, int experienceInYears, String englishLevel, double salary) {
         this.name = name;
