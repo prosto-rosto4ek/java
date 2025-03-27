@@ -5,4 +5,4 @@ public class App {
     System.out.println("Hello ИМЯ");
     System.out.println(Tester.fact(5));
   }
-}
+}//
